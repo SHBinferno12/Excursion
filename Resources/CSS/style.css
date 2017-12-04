@@ -1,0 +1,11 @@
+html {
+  background-color: black;
+}
+.content {
+  text-align: center;
+}
+.title,
+.subheading{
+  font-family: Verdana;
+  color: white;
+}
