@@ -1,0 +1,83 @@
+[33mcommit 4b44cb97445d4c569a9d77331824986aaea06eb6[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: SHBinferno <29443161+SHBinferno12@users.noreply.github.com>
+Date:   Wed Dec 20 23:15:30 2017 -0700
+
+    Correct relative video path.
+
+[33mcommit e6f806f592f5b1b4e3fca878904fb2b6191db3e8[m
+Author: Suhaib <29443161@users.noreply.github.com>
+Date:   Mon Dec 4 06:01:21 2017 -0700
+
+    Change CSS according to added anchor element.
+
+[33mcommit 28d9da9105b3bc31666bd91c8e4dac898ecef45b[m
+Author: Suhaib <29443161@users.noreply.github.com>
+Date:   Mon Dec 4 04:11:53 2017 -0700
+
+    Add hyperlink to one p element.
+
+[33mcommit 6fbf0ac6be974f32d8e20d4ffafd3dbd97b05da0[m
+Author: Suhaib <29443161@users.noreply.github.com>
+Date:   Mon Dec 4 04:08:36 2017 -0700
+
+    Complete writing CSS.
+
+[33mcommit 5b4cd50f8cd305a71ad2175506b36f5df5f37a9f[m
+Author: Suhaib <29443161@users.noreply.github.com>
+Date:   Mon Dec 4 03:34:39 2017 -0700
+
+    Start adding CSS.
+
+[33mcommit c619161b1ec43c231b401c0acfb35d25c4fe694c[m
+Author: Suhaib <29443161@users.noreply.github.com>
+Date:   Mon Dec 4 03:05:32 2017 -0700
+
+    Add copyright text.
+
+[33mcommit 9f8218566aa958cb49887c4ae3f6d9767386756d[m
+Author: Suhaib <29443161@users.noreply.github.com>
+Date:   Mon Dec 4 02:08:12 2017 -0700
+
+    Add phone image and text below.
+
+[33mcommit aa995b8a774535428f7bd2fdd3df1aa22fe0ca68[m
+Author: Suhaib <29443161@users.noreply.github.com>
+Date:   Sun Dec 3 22:08:47 2017 -0700
+
+    Correct img element as picture didn't show.
+
+[33mcommit f1babebdfe6bd71e13e0affedbb0412b20b72fa6[m
+Author: Suhaib <29443161@users.noreply.github.com>
+Date:   Sun Dec 3 22:02:08 2017 -0700
+
+    Change HTML structure. Add camp image and text above.
+
+[33mcommit babe554607479314cc3d1f27fbad81154ba1618e[m
+Author: Suhaib <29443161@users.noreply.github.com>
+Date:   Sun Dec 3 21:36:58 2017 -0700
+
+    Correct placement of closing div tag.
+
+[33mcommit abeb70b54df40c0f1f78627012abf04d26d27443[m
+Author: Suhaib <29443161@users.noreply.github.com>
+Date:   Sun Dec 3 21:32:22 2017 -0700
+
+    Add missing closing div tag.
+
+[33mcommit 9d8f58ddb597b4701c1a2da49c813494d08a204b[m
+Author: Suhaib <29443161@users.noreply.github.com>
+Date:   Sun Dec 3 21:09:15 2017 -0700
+
+    Add video element to HTML.
+
+[33mcommit 5976466474c2c078357405c584a8f0ab2797cd93[m
+Author: Suhaib <29443161@users.noreply.github.com>
+Date:   Sun Dec 3 05:02:43 2017 -0700
+
+    Add boilerplate HTML and begin page content. Add new media files to resource.
+
+[33mcommit c3851af56dd457cf4c3334b8989cbb265024c392[m
+Author: Suhaib <29443161@users.noreply.github.com>
+Date:   Sat Dec 2 17:55:41 2017 -0700
+
+    Create empty files - first commit.
